@@ -1,7 +1,9 @@
 ## Salve me chamo Léo
 
-🔭Atualmente estou apenas estudando
+🔭Atualmente estou apenas estuda
+<br />
 🌱Atualmente estou aprendendo HTML5, CSS, JavaScript
+<br />
 📫Como chegar: leo.oliveiraadv1@gmail.com
 
 <div align="center">
