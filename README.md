@@ -1,14 +1,14 @@
-##  Eae meu nome é Leo Souza.
+##  Eae meu nome é Leo Souza, desenvolvedor fronend em crescimento.
 
 <div align="center">
   <a href="https://github.com/LeoSouza64">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoSouza64&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoSouza64&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+  <hr />
 
-🔭Atualmente estou estudando
-🌱Atualmente estou aprendendo JavaScript
-📫Como chegar: leo.oliveiraadv1@gmail.com
+🔭Atualmente estudando JavaScript
 
 <div align="center">
   <a href="https://github.com/Leo_Souza64">
@@ -26,7 +26,6 @@
 <div> 
   <a href="https://www.instagram.com/leo_souza64/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/Léo157" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leo.oliveiraadv1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-souza-b13a00232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
