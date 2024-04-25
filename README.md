@@ -1,4 +1,4 @@
-##  Eae meu nome é Leo Souza, desenvolvedor fronend em crescimento.
+##  Eae meu nome é Leonardo Oliveira, desenvolvedor web em desenvolvimento.
 
 <div align="center">
   <a href="https://github.com/LeoSouza64">
